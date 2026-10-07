@@ -5,9 +5,9 @@ Aplikasi ini menggunakan environment variables untuk mengelola URL API dan param
 Sebelum menjalankan aplikasi, silakan buat file bernama .env di root folder proyek (sejajar dengan pubspec.yaml), lalu masukkan konfigurasi berikut:
 
 ```env
-BASE_URL=http://uruz.id
-ENV_SERVER=dev
-REFERRER=bodev.uruz.id
+BASE_URL=
+ENV_SERVER=x
+REFERRER=
 ```
 
 Catatan: Pastikan tidak ada spasi tambahan atau tanda kutip di sekitar nilai variabel.
